@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/apple/swift-tools-support-core",
         "state": {
           "branch": null,
-          "revision": "b7667f3e266af621e5cc9c77e74cacd8e8c00cb4",
-          "version": "0.2.5"
+          "revision": "284a41800b7c5565512ec6ae21ee818aac1f84ac",
+          "version": "0.4.0"
         }
       }
     ]
